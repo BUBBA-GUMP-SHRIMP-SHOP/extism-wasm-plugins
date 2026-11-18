@@ -1,3 +1,3 @@
 [workspace]
-members = []
+members = ["projects/finance/gain"]
 resolver = "3"
